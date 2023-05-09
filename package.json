@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start-both": ""
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
